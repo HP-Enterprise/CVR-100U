@@ -1,0 +1,16 @@
+*.iml
+*.ipr
+*.iws
+*.log
+*.log.*
+
+.idea/
+.vscode/
+
+node_modules/
+src/main/resources/static/script/lib/
+build/
+snapshoot/
+/*.properties
+/src/*/resources/application-*.properties
+/src/*/resources/application-*.yml
