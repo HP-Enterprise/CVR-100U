@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Class-Path:  lib//appframework-1.0.3.jar lib//swing-worker-1.1.jar lib
+ //JNative.jar lib//spring-boot-starter-web-1.4.0.RELEASE.jar lib//spr
+ ing-boot-starter-jetty-1.4.0.RELEASE.jar lib//spring-boot-starter-act
+ uator-1.4.0.RELEASE.jar lib//spring-boot-starter-1.4.0.RELEASE.jar li
+ b//hibernate-validator-5.2.4.Final.jar lib//jackson-databind-2.8.1.ja
+ r lib//spring-web-4.3.2.RELEASE.jar lib//spring-webmvc-4.3.2.RELEASE.
+ jar lib//jetty-servlets-9.3.11.v20160721.jar lib//jetty-webapp-9.3.11
+ .v20160721.jar lib//websocket-server-9.3.11.v20160721.jar lib//javax-
+ websocket-server-impl-9.3.11.v20160721.jar lib//spring-boot-actuator-
+ 1.4.0.RELEASE.jar lib//spring-boot-1.4.0.RELEASE.jar lib//spring-boot
+ -autoconfigure-1.4.0.RELEASE.jar lib//spring-boot-starter-logging-1.4
+ .0.RELEASE.jar lib//spring-core-4.3.2.RELEASE.jar lib//snakeyaml-1.17
+ .jar lib//validation-api-1.1.0.Final.jar lib//jboss-logging-3.3.0.Fin
+ al.jar lib//classmate-1.3.1.jar lib//jackson-annotations-2.8.1.jar li
+ b//jackson-core-2.8.1.jar lib//spring-aop-4.3.2.RELEASE.jar lib//spri
+ ng-beans-4.3.2.RELEASE.jar lib//spring-context-4.3.2.RELEASE.jar lib/
+ /spring-expression-4.3.2.RELEASE.jar lib//jetty-continuation-9.3.11.v
+ 20160721.jar lib//jetty-http-9.3.11.v20160721.jar lib//jetty-util-9.3
+ .11.v20160721.jar lib//jetty-io-9.3.11.v20160721.jar lib//jetty-xml-9
+ .3.11.v20160721.jar lib//jetty-servlet-9.3.11.v20160721.jar lib//webs
+ ocket-common-9.3.11.v20160721.jar lib//websocket-client-9.3.11.v20160
+ 721.jar lib//websocket-servlet-9.3.11.v20160721.jar lib//jetty-annota
+ tions-9.3.11.v20160721.jar lib//javax-websocket-client-impl-9.3.11.v2
+ 0160721.jar lib//javax.websocket-api-1.0.jar lib//logback-classic-1.1
+ .7.jar lib//jcl-over-slf4j-1.7.21.jar lib//jul-to-slf4j-1.7.21.jar li
+ b//log4j-over-slf4j-1.7.21.jar lib//jetty-security-9.3.11.v20160721.j
+ ar lib//websocket-api-9.3.11.v20160721.jar lib//javax.servlet-api-3.1
+ .0.jar lib//jetty-plus-9.3.11.v20160721.jar lib//javax.annotation-api
+ -1.2.jar lib//asm-5.0.1.jar lib//asm-commons-5.0.1.jar lib//logback-c
+ ore-1.1.7.jar lib//slf4j-api-1.7.21.jar lib//jetty-server-9.3.11.v201
+ 60721.jar lib//asm-tree-5.0.1.jar
+
